@@ -7,10 +7,9 @@ We are a collection of St George's staff responsible for the ongoing delivery of
 
 ## Overview
 We cover various bioinformatic topics, including:
-
-*Genomic analysis
-*De novo genome assembly
-*Metagenomic analyses
+* Genomic analysis
+* De novo genome assembly
+* Metagenomic analyses
 
 
 ## Learning and Development
