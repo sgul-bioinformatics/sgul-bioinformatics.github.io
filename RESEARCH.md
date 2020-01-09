@@ -3,4 +3,6 @@ title: "Research"
 permalink: "/research/"
 ---
 
-Placeholder for research information
+## Publications
+
+[Whole Genome Sequencing of Mycobacterium tuberculosis clinical isolates - Witney et al. 2014](/_research/witney2014.md)
