@@ -3,9 +3,9 @@ title: "About"
 permalink: "/about/"
 ---
 
-# About Us
 We are a collection of St George's staff responsible for the ongoing delivery of bioinformatics learning and development opportunities, and continuing bioinformatics research.
 
+## Overview
 We cover various bioinformatic topics, including:
 
 *Genomic analysis
