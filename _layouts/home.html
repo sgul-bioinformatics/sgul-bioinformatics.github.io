@@ -2,12 +2,9 @@
 layout: default
 ---
 
-<div>
-  <h1><img src="/images/St-Georges-University-logo-1.png" alt="SGUL Logo" class="left"/></h1>
-</div>
-
 <article>
-  <header><h1>Posts</h1></header>
+  <header><h1><img src="/images/St-Georges-University-logo-1.png"/></h1></header>
+  <header>Posts</h1></header>
   <ul class="archive">
     {%- assign posts = paginator.posts | default: site.posts -%}
     {% for post in posts %}
