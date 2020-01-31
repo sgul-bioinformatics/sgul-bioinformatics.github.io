@@ -5,11 +5,11 @@ permalink: "/events/"
 
 ## Upcoming
 
-2019 01 31 - Next Generation Sequencing
+2020 01 31 - Next Generation Sequencing
 
-2019 02 28 - Python Workshop
+2020 02 28 - Python Workshop
 
-2019 03 27 - R for Improvers Workshop
+2020 03 27 - R for Improvers Workshop
 
 ## Previous
 
